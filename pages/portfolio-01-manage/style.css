@@ -1,0 +1,197 @@
+.menu-btn .btn-portfolio {
+    color: #5FB4A2;
+}
+
+.container-um {
+    display: flex;
+    margin-bottom: 115px;
+    background-color: rgb(233, 187, 208);
+}
+
+.container-um img{
+    width: 1110px;
+    height: 500px;
+}
+
+.container-dois{
+    display: flex;
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-bottom: 64px;
+}
+
+.manage{
+    margin-right: 125px;
+    display: flex;
+    flex-direction: column;
+}
+
+.manage h1{
+    padding-top: 48px;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: rgba(51, 50, 61, 1);;
+}
+
+.manage p{
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(51, 50, 61, 1);;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+
+    padding-top: 29px;
+    padding-bottom: 53px;
+}
+
+.manage span{
+    font-family: 'Public Sans', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    color: #5FB4A2;
+}
+
+.btn-visitar{
+    margin-top: 32px;
+    margin-bottom: 48px;
+
+    padding: 17px 60px;
+
+    border: 1px solid rgba(51, 50, 61, 1);;
+    width: 178px;
+    height: 48px;
+
+    text-decoration: none;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(51, 50, 61, 1);;
+}
+
+.linha-manage{
+    width: 350px;
+    height: 1px;
+
+    background: rgba(51, 50, 61, 0.5);
+    mix-blend-mode: normal;
+}
+
+.projeto h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 42px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+
+    padding-bottom: 28px;
+}
+
+.projeto p{
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+
+    padding-bottom: 40px;
+}
+
+.projeto h2{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 42px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+
+    padding-bottom: 28px;
+}
+
+.projeto img{
+    width: 635px;
+    height: 400px;
+}
+
+.img-um{
+    margin-bottom: 32px;
+    background: rgb(255, 210, 230);
+}
+
+.img-dois{
+    background: rgb(255, 210, 230);
+}
+
+
+.container-tres{
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    max-height: 132px;
+}
+
+.filho{
+    display: flex;
+}
+
+.filho h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+}
+
+.filho span{
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.filho-um-cont-tres a{
+padding: 57px 32px 57px 0px;
+}
+
+.filho-dois-cont-tres a{
+    padding: 57px 0px 57px 32px;
+}
+
+.left{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.right{
+    padding-top: 32px;
+    padding-bottom: 32px; 
+}
+
+
+.linha-container{
+    width: 1110px;
+    height: 1px;
+
+    background: rgba(51, 50, 61, 0.5);
+    mix-blend-mode: normal;
+}
+
+.linha-bottom{
+    margin-bottom: 115px;
+}

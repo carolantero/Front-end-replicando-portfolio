@@ -1,0 +1,177 @@
+.container-um{
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-size: cover;
+    width: 1110px;
+    height: 600px;
+    margin-left: 165px;
+    margin-right: 165px;
+}
+
+.menu-btn .btn-home{
+    color: #5FB4A2;
+}
+
+.filho-um{
+    max-width: 445px;
+    max-height: 359px;
+
+    margin-top: 247px;
+
+    background: #FAFAFA;
+}
+
+.filho-um p{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+    color:  rgba(51, 50, 61, 1);
+
+    padding: 56px 28px 53px 27px;
+}
+
+.filho-um a{
+    display: flex;
+    justify-content: space-evenly;
+
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #203A4C;
+
+    max-width: 200px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+
+.filho-dois{
+    display: flex;
+    margin: 149px 165px;
+}
+
+.filho-dois img{
+    max-width: 540px;
+    max-height: 600px;
+}
+
+.sobre-mim{
+    flex-direction: column;
+    padding-left: 140px;
+}
+
+.sobre-mim h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: rgba(51, 50, 61, 1);;
+
+    margin-top: 51px;
+}
+
+.sobre-mim p{
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(51, 50, 61, 1);;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+
+    width: 430px;
+    height: 360px;
+    margin-top: 28px;
+    margin-bottom: 24px;
+}
+
+.sobre-mim a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Public Sans', sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(51, 50, 61, 1);;
+    text-align: center;
+
+    border: 1px solid rgba(51, 50, 61, 1);;
+    
+    box-sizing: border-box;
+
+    width: 204px;
+    height: 48px;
+    margin: 0px auto;
+}
+
+.filho-dois-dois{
+    background: rgba(51, 50, 61, 0.5);
+    mix-blend-mode: normal;
+    width: 430px;
+    height: 1px;
+
+    margin-top: 46px;
+}
+
+
+.container-tres{
+    width: 1110px;
+    height: 84px;
+
+    margin-bottom: 150px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-tres h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: rgba(51, 50, 61, 1);
+    
+    width: 367px;
+    height: 84px;
+}
+
+.container-tres a{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: rgba(51, 50, 61, 1);;
+
+    text-decoration: none;
+
+    border: 1px solid rgba(51, 50, 61, 1);;
+    box-sizing: border-box;
+
+    margin-top: 18px;
+    margin-bottom: 18px;
+
+    width: 168px;    
+
+    padding: 17px 50px;
+}
+
+.filho-um a:hover{
+    background: #5FB4A2;
+}
+
+.filho-um a:hover img{
+    filter: brightness(0) invert(1);
+}
+

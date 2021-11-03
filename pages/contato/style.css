@@ -1,0 +1,149 @@
+.menu-btn .btn-contato{
+    color: #5FB4A2;
+}
+
+.linha{
+    width: 1110px;
+    height: 1px;
+
+    background: rgba(51, 50, 61, 0.5);;
+    mix-blend-mode: normal;
+}
+
+.container-um{
+    display: flex;
+    margin: 48px 165px;
+}
+
+.container-um h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+
+    width: 350px;
+}
+.filho-um{
+    display: flex;
+    flex-direction: column;
+    padding-left: 125px;
+}
+.filho-um p{
+    max-width: 635px;
+    height: 180px;
+    
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.redes-sociais-contato{
+    margin-top: 54px;
+}
+
+.redes-sociais-contato a{
+    padding-right: 15px;
+}
+
+.container-dois{
+    display: flex;
+    
+    margin-top: 47px;
+    margin-bottom: 109px;
+}
+
+.filho-dois{
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 125px;
+
+    width: 635px;
+    height: 426px;
+}
+.container-dois h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+
+    width: 350px;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+
+    padding-bottom: 24px;
+}
+
+.input label{
+    all: unset;
+    box-sizing: border-box;
+    padding-bottom: 8px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.input input, .input textarea{
+    all: unset;
+    box-sizing: border-box;
+    background: #F2F2F2;;
+    padding: 10px;
+}
+
+.input input:focus{
+    outline: 1px solid #33323D;
+}
+
+.input textarea:focus{
+    outline: 1px solid #33323D;
+}
+
+.input-um input {
+    width: 635px;
+    line-height: 28px;
+}
+
+.input-dois textarea{
+    width: 635px;
+    line-height: 24px;
+}
+
+.filho-dois a{
+    text-decoration: none;
+
+    font-family: 'Public Sans', sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    padding: 17px 24px;
+    width: 200px;
+    height: 48px;
+    background: #203A4C;
+}
+
+
+.btn-enviar:hover{
+    background: #5FB4A2;
+}
